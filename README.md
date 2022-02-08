@@ -7,28 +7,16 @@ Front-end Web Developer
 
 독학을 통해 스스로 성장해왔습니다.
 
-스스로 학습할 수 있도록 주 6회 이상 블로그를 작성하고,
+스스로 학습할 수 있도록 주 1일 1커밋 1블로그를 지키고(3개월 차),
 
 공부를 지속할 수 있도록 주 6회 이상 스터디를 진행하며 같은 목표를 가진 동료와 함께 성장하고자 합니다.
 
 
 #### 🛠️ Skills
-- Language: Javascript, Typescript
+- Language: Javascript, Typescript(Learning)
 - Front-end: React, Redux, Recoil, swr
-- Back-end: firebase
+- Back-end: firebase, Node.JS(Learning)
 - Tools: Git, Notion, Figma
 
-<!--
-**JISU-Y/JISU-Y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 📫 Contacts
+email: jisu129@gmail.com
