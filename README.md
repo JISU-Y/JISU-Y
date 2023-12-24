@@ -3,20 +3,27 @@
 Front-end Web Developer
 
 #### 💬 About Me
-경영이 악화하는 불안한 환경 속에서도 흔들리지 않고 주도적으로 업무를 진행하는 개발자입니다.
-
-컨벤션/기술 사용법/온보딩 가이드 등의 문서화를 통해 자신의 발전뿐만 아니라 팀 문화 발전에 기여합니다.
+주도적으로 업무하고, 커뮤니케이션하는 "협업 기반 개발자" 유지수입니다.
 
 피드백과 리뷰를 소중히 여기며 이를 실전에 적용하여 상호 발전을 도모합니다.
 
-지속 발전하고자 개인 기술 블로그 운영 및 매주 스터디 모임을 통해 성장합니다.
+25개 이상의 문서 및 템플릿 제작으로 팀 협업 효율을 증대합니다.
+· 온보딩 문서, 로직 문서, 회의 템플릿 등
 
-주도적으로 일하고, 커뮤니케이션하여 모두에게 “같이 일하고 싶은 개발자”로 남고 싶습니다.
+적극적인 리딩으로 좋은 개발 문화 도모하며 개발 생산성을 극대화합니다.
+· 디자인 시스템, e2e 테스트, 에러 트래킹 툴
+
+2년 동안 매주 1회 이상 스터디를 진행해 온 만큼 꾸준하고 지속적으로 성장합니다.
+· 개인 기술 블로그 운영, 팀 스터디 주도
 
 #### 🛠️ Skills
 - Language: Javascript, Typescript
-- Front-end: React, Styled-components, Redux, Recoil, React-query, Apollo-client, Jest/React-testing-library, Storybook, HTML, CSS
-- Tools: Git, Github/Gitlab, Jira, Notion, Slack
+- Front-end:
+  - Framework: Next.js, React,
+  - Style: HTML/CSS/SCSS, Styled-components, tailwind
+  - State-management: Redux, React-query, Recoil, Apollo-client(GraphQL)
+  - ETC: Turborepo, Cypress, Jest/React-testing-library, Sentry, Storybook
+- Tools: Git, Github/Gitlab, Jira, Notion, Slack, Clickup, Mermaid
 
 #### 📫 Contacts
 email: jisu129@gmail.com
